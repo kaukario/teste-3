@@ -1,4 +1,7 @@
 body{
-    background-color:hotpink 
-    color:deeppink
+    background-color:rgb(197, 5, 101) 
+    color:hotpink
+}
+strong{
+    color: deeppink;
 }
