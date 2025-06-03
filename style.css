@@ -1,13 +1,13 @@
 body{
-    background-color:rgb(156, 3, 80);
+    background-color:rgb(240, 198, 219);
     color:hotpink
 }
 strong{
     color: deeppink;
 }
 h1{
-    margin: 0cqmax;
-    padding: 50;
+    margin: 50;
+    padding: 30;
     text-align: center;
-    color: aliceblue;
+    color: rgb(126, 8, 71);
 }
