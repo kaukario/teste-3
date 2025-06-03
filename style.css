@@ -1,9 +1,9 @@
 body{
     background-color:rgb(56, 33, 2);
-    color:rgb(5, 39, 151)
+    color:rgb(255, 255, 255)
 }
 strong{
-    color: rgb(255, 255, 255);
+    color: rgba(255, 210, 9, 0.603);
 }
 h1{
     margin: 70;
