@@ -1,13 +1,13 @@
 body{
-    background-color:rgb(41, 103, 238);
-    color:rgb(7, 62, 243)
+    background-color:rgb(3, 37, 110);
+    color:rgb(6, 30, 107)
 }
 strong{
-    color: rgb(19, 91, 173);
+    color: rgb(32, 121, 223);
 }
 h1{
-    margin: 100;
-    padding: 4200;
+    margin: 60;
+    padding: 60;
     text-align: center;
     color: rgb(10, 47, 255);
 }
