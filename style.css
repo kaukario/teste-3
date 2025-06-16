@@ -12,6 +12,13 @@ h1{
     font-size: 80px;
     color: rgb(248, 248, 252);
 }
+h2{
+    margin: 80;
+    padding: 80;
+    text-align: center;
+    font-size: large;
+    color: aliceblue;
+}
 grid-imagens{
     display:grid
     grid-template-columns:reapeat(z,1fr)
