@@ -17,3 +17,8 @@ grid-imagens{
     grid-template-columns:reapeat(z,1fr)
     gap: 150px;px;
 }
+
+.div1 {
+    display: flex;
+    flex-direction: column;
+}
