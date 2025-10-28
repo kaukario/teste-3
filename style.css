@@ -22,3 +22,7 @@ grid-imagens{
     display: flex;
     flex-direction: column;
 }
+
+.img1 {
+    padding-bottom: 20px;
+}
